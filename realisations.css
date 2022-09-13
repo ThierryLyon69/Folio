@@ -273,6 +273,7 @@ nav {
   
   nav a {
     position: relative;
+    margin-top: -6px;
     width: 20%;
     display: table-cell;
     text-align: center;

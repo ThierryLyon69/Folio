@@ -627,7 +627,7 @@ nav {
 nav a {
   position: relative;
   width: 20%;
-  margin-top: -20px;
+  margin-top: -6px;
   display: table-cell;
   text-align: center;
   color: rgb(255, 255, 255);
