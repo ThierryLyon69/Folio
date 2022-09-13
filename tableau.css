@@ -267,7 +267,6 @@ nav {
   }
   
   nav a {
-    margin-top: -20px;
     position: relative;
     width: 20%;
     display: table-cell;
