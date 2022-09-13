@@ -201,7 +201,7 @@ section > div{
         box-shadow: 0px 0px 10px #bbb;
     }
     a:hover{
-        color: lightgrey;
+        color: rgba(211, 211, 211, 0.718);
     }
     header h1{
         width: 80%;
