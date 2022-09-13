@@ -189,7 +189,7 @@ section > div{
         box-shadow: 0px 0px 10px #bbb;
     }
     a:hover{
-        color: #EA0;
+        color: grey;
     }
     header h1{
         width: 80%;
