@@ -229,8 +229,8 @@ section > div{
 }
 
 section section:hover{
-    zoom: 10%;
-    transition: 2s;
+    transition: transform .2s; /* Animation */
+    transform: scale(1.5);
 }
 
 .button-43 {
