@@ -712,30 +712,36 @@ nav a:hover:after {
 }
 
 nav a:nth-child(1):hover ~ #indicator {
-  left: 7.5%;
+  left: 5%;
   background: linear-gradient(130deg, red, #ee9d32);
   transition: 0.9s ease left;
 }
 
 nav a:nth-child(2):hover ~ #indicator {
-  left: 32.5%;
+  left: 26.5%;
   background: linear-gradient(130deg, #fece20, #69c804);
   transition: 0.9s ease left;
 }
 
 nav a:nth-child(3):hover ~ #indicator {
-  left: 57.5%;
+  left: 44.5%;
   background: linear-gradient(130deg, rgb(3, 136, 41), rgb(36, 180, 165));
   transition: 0.9s ease left;
 }
 
 nav a:nth-child(4):hover ~ #indicator {
-  left: 82.5%;
+  left: 65%;
   background: linear-gradient(130deg, rgb(12, 152, 194), rgb(104, 20, 149));
   transition: 0.9s ease left;
 }
 
-nav a:nth-child(1):hover, nav a:nth-child(2):hover, nav a:nth-child(3):hover, nav a:nth-child(4):hover{
+nav a:nth-child(5):hover ~ #indicator {
+  left: 84.5%;
+  background: linear-gradient(130deg, rgb(190, 16, 181), rgb(214, 28, 155));
+  transition: 0.9s ease left;
+}
+
+nav a:nth-child(1):hover, nav a:nth-child(2):hover, nav a:nth-child(3):hover, nav a:nth-child(4):hover, nav a:nth-child(5):hover{
   background: rgb(74, 68, 68);
   transition: 0.9s ease left;
 }
